@@ -30,6 +30,6 @@ Learned React basics, components, props, and state.
 ## Challenges Faced
 Understanding state and component structure.
 
-## Live Demo (if deployed)
+## Live Demo 
 [View Live Demo](https://your-deployed-url.com)
                                                            
