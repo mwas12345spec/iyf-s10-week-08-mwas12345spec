@@ -31,5 +31,5 @@ Learned React basics, components, props, and state.
 Understanding state and component structure.
 
 ## Live Demo 
-[View Live Demo](https://your-deployed-url.com)
+[View Live Demo]( https://mwas12345spec.github.io/iyf-s10-week-08-mwas12345spec/)
                                                            
